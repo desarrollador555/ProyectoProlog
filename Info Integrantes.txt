@@ -1,0 +1,13 @@
+Carrera: Ing. En Sistemas Computacionales
+
+	Octavo Semestre		Grupo B
+
+Materia: Programacion Logica y Funcional
+
+Integrantes:
+	Willian G. Dzul Castillo
+	Limbergh A. Morales Arellano
+
+Matriculas:
+	16070002
+	16070047
